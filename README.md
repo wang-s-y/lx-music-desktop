@@ -128,3 +128,4 @@ npm run pack:linux
 
 音乐平台不易，请尊重版权，支持正版。<br>
 若对此有疑问请 mail to: lyswhut+qq.com (请将`+`替换成`@`)
+ 
